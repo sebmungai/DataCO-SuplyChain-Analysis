@@ -2,7 +2,6 @@
 
 A complete data analytics project built in Python on the DataCo Smart Supply Chain dataset. It cleans and analyzes 180,519 order lines, answers twelve business questions about sales, products, customers, markets, shipping and profitability, and presents the results in an interactive five page Streamlit dashboard.
 
-Built as a portfolio project for the KeDataLab Python for Data Analytics and Data Apps course.
 
 Deployed dashboard: [add your Streamlit link here after deploying]
 
